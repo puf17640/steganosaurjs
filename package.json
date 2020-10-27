@@ -1,0 +1,21 @@
+{
+  "name": "steganosaurjs",
+  "version": "1.0.0",
+  "description": "steganography in JS",
+  "main": "index.js",
+  "dependencies": {
+    "image-js": "0.30.3"
+  },
+  "devDependencies": {},
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puf17640/steganosaurjs.git"
+  },
+  "author": "puf17640",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puf17640/steganosaurjs/issues"
+  },
+  "homepage": "https://github.com/puf17640/steganosaurjs#readme"
+}
